@@ -1,0 +1,10 @@
+[
+  {
+    "session_id": "38cc65a3-09b0-4865-aafd-d4f65d638a61",
+    "transcript_path": "/Users/crlough/.claude/projects/-Users-crlough-Code-personal-chat-pdf-via-rag/38cc65a3-09b0-4865-aafd-d4f65d638a61.jsonl",
+    "cwd": "/Users/crlough/Code/personal/chat-pdf-via-rag",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  }
+]
